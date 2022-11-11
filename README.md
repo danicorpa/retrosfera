@@ -1,18 +1,17 @@
 # retrosfera
 
-hyh
 
 > By Daniel Martin Corpa
 
 [Readme.md](https://github.com/danicorpa/retrosfera)
 # Tabla de contenidos
-- [ENUNCIADO](#enunciado)
-
+- [INTRODUCCION](#introduccion)
 - [PRIMERA PARTE: TRABAJAR CON FICHEROS MARKDOWN](#primera-parte-trabajar-con-ficheros-markdown)
-
 - [SEGUNDA PARTE: BIFURCAR UN REPOSITORIO](#segunda-parte-bifurcar-un-repositorio)
 - [TERCERA PARTE: CÓMO HACER LO MISMO EN GIT BASH (con comandos) Y EN IntelliJ IDEA](#tercera-parte-cómo-hacer-lo-mismo-en-git-bash-con-comandos-y-en-intellij-idea)
-# Enunciado
+# Introducción
+Lo retro está volviendo con paso firme. Hace unos años yo llevaba unos pantalones con pata ancha, no de campana, pata ancha, de elefante la llamaban,y ahora vuelvo a verlos en la gente.
+Espero que no vuelvan las camisas de chorreras, por Dios!!  :monocle_face:
 ## PRIMERA PARTE: TRABAJAR CON FICHEROS MARKDOWN
 Crea un repositorio con el nombre que te sugiera el propio GitHub, público, con
 una descripción, un fichero README.md, un fichero .gitignore (modelo por defecto

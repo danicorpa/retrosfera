@@ -8,10 +8,10 @@ hyh
 # Tabla de contenidos
 - [ENUNCIADO](#enunciado)
 
-- [PRIMERA PARTE: TRABAJAR CON FICHEROS MARKDOWN](#primera-parte-trabajar-con-ficheros-markdown)
+- [PRIMERA PARTE: TRABAJAR CON FICHEROS MARKDOWN](#primera-parte:-trabajar-con-ficheros-markdown)
 
-- [SEGUNDA PARTE: BIFURCAR UN REPOSITORIO](#segunda-parte-bifurcar-un-repositorio)
-- [TERCERA PARTE: CÓMO HACER LO MISMO EN GIT BASH (con comandos) Y EN IntelliJ IDEA](#tercera-parte-cmo-hacer-lo-mismo-en-git-bash-con-comandos-y-en-intellij-idea)
+- [SEGUNDA PARTE: BIFURCAR UN REPOSITORIO](#segunda-parte:-bifurcar-un-repositorio)
+- [TERCERA PARTE: CÓMO HACER LO MISMO EN GIT BASH (con comandos) Y EN IntelliJ IDEA](#tercera-parte:-como-hacer-lo-mismo-en-git-bash-con-comandos-y-en-intellij-idea)
 # Enunciado
 ## PRIMERA PARTE: TRABAJAR CON FICHEROS MARKDOWN
 Crea un repositorio con el nombre que te sugiera el propio GitHub, público, con

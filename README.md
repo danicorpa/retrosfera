@@ -8,9 +8,9 @@ hyh
 # Tabla de contenidos
 - [ENUNCIADO](#enunciado)
 
-- [PRIMERA PARTE: TRABAJAR CON FICHEROS MARKDOWN](#primera-parte:-trabajar-con-ficheros-markdown)
+- [PRIMERA PARTE: TRABAJAR CON FICHEROS MARKDOWN](#primera-parte-trabajar-con-ficheros-markdown)
 
-- [SEGUNDA PARTE: BIFURCAR UN REPOSITORIO](#segunda-parte:-bifurcar-un-repositorio)
+- [SEGUNDA PARTE: BIFURCAR UN REPOSITORIO](#segunda-parte-bifurcar-un-repositorio)
 - [TERCERA PARTE: CÓMO HACER LO MISMO EN GIT BASH (con comandos) Y EN IntelliJ IDEA](#tercera-parte-cómo-hacer-lo-mismo-en-git-bash-con-comandos-y-en-intellij-idea)
 # Enunciado
 ## PRIMERA PARTE: TRABAJAR CON FICHEROS MARKDOWN

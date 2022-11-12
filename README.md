@@ -9,7 +9,7 @@
 - [PRIMEROS PASOS](#primeros-pasos)
 - [LOS JUEGOS](#los-juegos)
 - [TERCERA PARTE: CÓMO HACER LO MISMO EN GIT BASH (con comandos) Y EN IntelliJ IDEA](#tercera-parte-cómo-hacer-lo-mismo-en-git-bash-con-comandos-y-en-intellij-idea)
-# INTRODUCCIÓN
+# INTRODUCCION
 Lo retro está volviendo con paso firme. Hace unos años yo llevaba unos pantalones con pata ancha, no de campana, pata ancha, de elefante la llamaban, y ahora vuelvo a verlos en la gente.
 Espero que no vuelvan las camisas de chorreras, por Dios!!  :monocle_face:
 Volviendo al tema, lo retro está volviendo, en el mundo de la informática, que es lo que nos toca por donde estamos metidos.

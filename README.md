@@ -10,6 +10,7 @@
 - [PRIMEROS PASOS](#primeros-pasos)
 - [LA ENVIDIA](#la-envidia)
 - [LA ACTUALIDAD](#la-actualidad)
+- [CONCLUSION](#conclusion)
 ## INTRODUCCION
 Lo **retro** está volviendo con paso firme. Hace unos años yo llevaba unos pantalones con pata ancha, no de campana, pata ancha, de elefante la llamaban, y ahora vuelvo a verlos en la gente.
 *Espero que no vuelvan las camisas de chorreras*, por Dios!!  :monocle_face:
@@ -52,6 +53,9 @@ por algún virus que se me había colado por un cd de promoción, o ese sharewar
 
 Aqui me veo hoy frente a mi pc, recordando mi tiempo de ordenador vintage que me hizo ver otras cosas que no habría podido imaginar, con los primeros mp3 que me fliparon, o ese avi que recuerdo que fue la peli de matrix, si no me equivoco, toda una revelación que fuera esa película la primera que vi en mi ordenador, luego llegaron cientos más.
 Pues después de todo esto, hoy en día todavía hay gente que no quiere que se olviden estas sensaciones añejas y que lucha, a golpe de teclado, por que el viento no se lleve a nuestro querido AMSTRAD y hacen que su memoria se perpetúe programando juegos y haciendo las delicias de niños como yo, con 40 y pico años.
+
+## CONCLUSION
+En definitiva, creo que lo **retro** nunca ha muerto del todo, nunca se pasará de moda por que hace que te pongas retos como el de seguir jugando gracias a que lo haces tú, también hay gente que hace que las máquinas no dejen de funcionar por el simple hecho de que le gusta lo que hace, creo que no, lo **retro** finalmente no ha vuelto por que no se ha ido nunca.
 
 Tengo que agradecer a tanta gente que no dejen de brindarnos estos momentos de alegría y diversión.
 

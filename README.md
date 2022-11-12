@@ -10,15 +10,20 @@
 - [SEGUNDA PARTE: BIFURCAR UN REPOSITORIO](#segunda-parte-bifurcar-un-repositorio)
 - [TERCERA PARTE: CÓMO HACER LO MISMO EN GIT BASH (con comandos) Y EN IntelliJ IDEA](#tercera-parte-cómo-hacer-lo-mismo-en-git-bash-con-comandos-y-en-intellij-idea)
 # Introducción
-Lo retro está volviendo con paso firme. Hace unos años yo llevaba unos pantalones con pata ancha, no de campana, pata ancha, de elefante la llamaban,y ahora vuelvo a verlos en la gente.
+Lo retro está volviendo con paso firme. Hace unos años yo llevaba unos pantalones con pata ancha, no de campana, pata ancha, de elefante la llamaban, y ahora vuelvo a verlos en la gente.
 Espero que no vuelvan las camisas de chorreras, por Dios!!  :monocle_face:
-## PRIMERA PARTE: TRABAJAR CON FICHEROS MARKDOWN
-Crea un repositorio con el nombre que te sugiera el propio GitHub, público, con
-una descripción, un fichero README.md, un fichero .gitignore (modelo por defecto
-para ficheros Java) y licencia MIT.
+Volviendo al tema, lo retro está volviendo, en el mundo de la informática, que es lo que nos toca por donde estamos metidos.
+Recuerdo como con mis 12 o 13 años, yo me iba con mis amigos a un sitio turbio, lleno de mala gente y de miradas furtivas, un sitio al que llamabamos RECREATIVOS!!. Ese sitio repleto de máquinas recreativas que, por cinco duros, veinticinco pesetas, te llevaba a mundos míticos, estadios de fútbol, canchas de baloncesto, peleas con moinstruos,  buf, se me calienta la boca!!
+En fin, por cinco duros pasabas un rato de diversión que podía ir desde unos segundsos a horas de juego.
+Pero de lo que vamos a hablar aquí es de un ordenador mítico que me enamoró en mi más tierna infancia, nada más y nada menos unos 12 años, y me brindó horas de disfrute y aprendizaje que forjó en mí un especial gusto por está tecnología.
+
+## PRIMEROS PASOS
+Rondaba el año del Señor de 1989, aprox, y mi madre no aguantó mi llantina pidiendole que me comprara un ordenador, que iba a hacer unos trbajos para el cole chchis, que iba a aprender muchas con las aplicaciones que llevaba incorporadas, pobre infeliz, y lo iba a petar.
+Nadie me advirtio que el soporte de datos que usaba era UNA CINTA MAGNÉTICA!!, una maldita cinta magnética, ese momento de carga era entre una pesadilla y un momento de emoción. Hasta que la carga fallaba después de media hora cargando!! Otra vez a cargar!!
+Menos mal que mi madre me compró el que llevaba diskete, :blush: y eso me llevaba a ir al corte inglés a comprarme mis amados disketes para hacer mis copias de seguridad de los juegos que más me gustaban, ahí fue cuando encontré el segundamano, si si, el segundamano, un periódico de venta de objetos de segunda mano, como wallapop pero en los 80!!:innocent:
 
 ![](../repositorio_p04/img/crear_repo.png)
-Clónalo para tener una copia del repositorio en local.
+Clónalo para tener una copia del repositorio en local. incorporadas
 ![](../repositorio_p04/img/clonar_repo.png)
 Modifica el README.md de forma que contenga, al menos:
 - Encabezados de dos niveles distintos

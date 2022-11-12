@@ -9,7 +9,7 @@
 - [INTRODUCCION](#introduccion)
 - [PRIMEROS PASOS](#primeros-pasos)
 - [LA ENVIDIA](#la-envidia)
-- [TERCERA PARTE: CÓMO HACER LO MISMO EN GIT BASH (con comandos) Y EN IntelliJ IDEA](#tercera-parte-cómo-hacer-lo-mismo-en-git-bash-con-comandos-y-en-intellij-idea)
+- [LA ACTUALIDAD](#la-actualidad)
 ## INTRODUCCION
 Lo retro está volviendo con paso firme. Hace unos años yo llevaba unos pantalones con pata ancha, no de campana, pata ancha, de elefante la llamaban, y ahora vuelvo a verlos en la gente.
 Espero que no vuelvan las camisas de chorreras, por Dios!!  :monocle_face:
@@ -39,3 +39,27 @@ Una de las cosas que más molaban era intercambiar juegos, el trueque de toda la
 Igual que salió el amstrad, también sallieron otros orednadores análogos, unos mejores y otros peores, pero en definitiva igual de divertidos.
 Uno que se me viene a la memoria era el SPECTRUM, COMODORE, ATARI, AMIGA, lo que hubiera dado por tener un AMIGA, que con sus gráficos podís competir con un pc, que salió poco después, yo tenía un amigo que tenía uno y por Dios lo que hubiera dado por que me lo dejara un rato!!:frowning:
 En mi barrio no eras nadie si no tenías un ordenador de este tipo, así que era casi como un Dios hecho niño, con mi ordenata, como lo llamaba, entonces llegó el día que fui destronado, relegado a un segundo plano, llegó otro amigo con un amstrad pero era de color!! madre mía que despropósito, ya no levanté cabeza.
+Finalmente la fiebre se pasó, unos años después ya que otra vez le lloré a mi madre para que me comprara otro ordenador, en este caso un PC, un pentium de intel, no recuerdo cuanta memoria tenía, pero más que yo por lo que veo, y en ese momento experimenté otro tipo de sensaciones, ya con 16 millones de colores, con mi impresora, y sus juegos!!:open_mouth:
+otro nivel Maribel.
+
+## LA ACTUALIDAD
+Una vez que fui conociendo mi pc, instalando windows 3.1, msdos 6.22, me fui embarcando cada vez más en este mundo, con la llegada del modem, que a sus 56 baudios por segundo de velocidad punta hacían que saliera fuego de mis zapatos navegando por la red de redes por mi conexión de terra.es o arrakis, que recuerdos más lentos me trae.:sweat_smile:
+Recuerdo las muchas veces que lo reinstalé, haciéndole ese maldito:.
+
+> format c:
+
+por algún virus que se me había colado por un cd de promoción, o ese shareware que tanto me gustaba trastear, para no comprarlo nunca, siempre he tenido una mentalidad muy comprtitiva.
+
+Aqui me veo hoy frente a mi pc, recordando mi tiempo de ordenador vintage que me hizo ver otras cosas que no habría podido imaginar, con los primeros mp3 que me fliparon, o ese avi que recuerdo que fue la peli de matrix, si no me equivoco, toda una revelación que fuera esa película la primera que vi en mi ordenador, luego llegaron cientos más.
+Pues después de todo esto, hoy en día todavía hay gente que no quiere que se olviden estas sensaciones añejas y que lucha, a golpe de teclado, por que el viento no se lleve a nuestro querido AMSTRAD y hacen que su memoria se perpetúe programando juegos y haciendo las delicias de niños como yo, con 40 y pico años.
+
+Tengo que agradecer a tanta gente que no dejen de brindarnos estos momentos de alegría y diversión.
+
+Bibliografía:
+- Manual del Amstrad cpc6128
+- La colección de Borland C que me compré en el kisko
+- La web de Astalavista.com
+- [Tuber Viejuner](https://www.youtube.com/c/TuberViejuner)
+- [Tentáculo Púrpura](https://www.youtube.com/c/Tentaculopurpura)
+- [Profesor Retroman](https://www.youtube.com/channel/UCSdIAKvPxlB3VlFDCBvI46A)
+- [Pixel2Pixel](https://www.youtube.com/c/pixel2pixel)

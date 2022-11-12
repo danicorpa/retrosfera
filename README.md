@@ -68,3 +68,4 @@ Bibliografía:
 6. [Profesor Retroman](https://www.youtube.com/channel/UCSdIAKvPxlB3VlFDCBvI46A)
 7. [Pixel2Pixel](https://www.youtube.com/c/pixel2pixel)
 8. [Mame Emulación](https://www.mamedev.org/)
+9. [Con 5 duros](https://www.youtube.com/c/con5duros)

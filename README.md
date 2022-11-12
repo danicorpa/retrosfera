@@ -31,4 +31,6 @@ Esos juegos te posibilitaban viajar a lugares infinitos, convertirte en BATMAN, 
 Bueno, gracias a ese manual te podías poner a picar código, ya que traía algunos juegos que podías programar y jugar despúes con tu obra magna.
 Fue entonces cuando me dió por la programación, ya que se podía programar en BASIC, no en VISUAL BASIC, eso es muy moderno, en BASic, que era como el javascript de la época, vamonos con el GOTO, el RETURN y las rutinas!! :rocket:
 Me gustaban mucho los juego de lucha (BARBARIAN), de aviones (1942), de bandas de barrio (RENEGADE), por poner algunos, porque tenía una caja da zapatos llena de disketes.
-Y luego no hay que olvidar las revistas que hablaban de estos juegos: la archiconocida MICROMANIA ![](https://github.com/danicorpa/retrosfera/blob/main/img/micromania.jpeg) o la MICROHOBBY ![](https://github.com/danicorpa/retrosfera/blob/main/img/microhobby-001.jpg)
+Y luego no hay que olvidar las revistas que hablaban de estos juegos: la archiconocida 
+MICROMANIA ![](https://github.com/danicorpa/retrosfera/blob/main/img/micromania.jpeg) o la 
+MICROHOBBY ![](https://github.com/danicorpa/retrosfera/blob/main/img/microhobby-001.jpg)

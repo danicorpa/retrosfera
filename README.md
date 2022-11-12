@@ -2,7 +2,7 @@
 
 
 > By Daniel Martin Corpa
-
+![](https://github.com/danicorpa/retrosfera/blob/main/img/images.png )
 [Readme.md](https://github.com/danicorpa/retrosfera)
 # TABLA DE CONTENIDOS
 - [INTRODUCCION](#introduccion)
@@ -35,5 +35,6 @@ Y luego no hay que olvidar las revistas que hablaban de estos juegos: la archico
 MICROHOBBY ![](https://github.com/danicorpa/retrosfera/blob/main/img/microhobby-001.jpg), que con sus POKES y trucos te iban dando consejos para ir pasando los niveles que eran más complicados.
 Una de las cosas que más molaban era intercambiar juegos, el trueque de toda la vida, yo te dejo este y tu me dejas este otro, eran otros tiempos.
 ## LA ENVIDIA
-Igual que saliói el amstrad, también sallieron otros orednadores análogos, unos mejores y otros peores, pero en definitiva igual de divertidos.
-Uno que se me viene a la memoria era el SPECTRUM, 
+Igual que salió el amstrad, también sallieron otros orednadores análogos, unos mejores y otros peores, pero en definitiva igual de divertidos.
+Uno que se me viene a la memoria era el SPECTRUM, COMODORE, ATARI, AMIGA, lo que hubiera dado por tener un AMIGA, que con sus gráficos podís competir con un pc, que salió poco después, yo tenía un amigo que tenía uno y por Dios lo que hubiera dado por que me lo dejara un rato!!:frowning:
+En mi barrio no eras nadie si no tenías un ordenador de este tipo, así que era casi como un Dios hecho niño, con mi ordenata, como lo llamaba, entonces llegó el día que fui destronado, relegado a un segundo plano, llegó otro amigo con un amstrad pero era de color!! madre mía que despropósito, ya no levanté cabeza.

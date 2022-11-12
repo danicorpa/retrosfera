@@ -11,9 +11,9 @@
 - [LA ENVIDIA](#la-envidia)
 - [LA ACTUALIDAD](#la-actualidad)
 ## INTRODUCCION
-Lo retro está volviendo con paso firme. Hace unos años yo llevaba unos pantalones con pata ancha, no de campana, pata ancha, de elefante la llamaban, y ahora vuelvo a verlos en la gente.
-Espero que no vuelvan las camisas de chorreras, por Dios!!  :monocle_face:
-Volviendo al tema, lo retro está volviendo, en el mundo de la informática, que es lo que nos toca por donde estamos metidos.
+Lo **retro** está volviendo con paso firme. Hace unos años yo llevaba unos pantalones con pata ancha, no de campana, pata ancha, de elefante la llamaban, y ahora vuelvo a verlos en la gente.
+*Espero que no vuelvan las camisas de chorreras*, por Dios!!  :monocle_face:
+Volviendo al tema, lo **retro** está volviendo, en el mundo de la informática, que es lo que nos toca por donde estamos metidos.
 Recuerdo como con mis 12 o 13 años, yo me iba con mis amigos a un sitio turbio, lleno de mala gente y de miradas furtivas, un sitio al que llamabamos RECREATIVOS!!. Ese sitio repleto de máquinas recreativas que, por cinco duros, veinticinco pesetas, te llevaba a mundos míticos, estadios de fútbol, canchas de baloncesto, peleas con moinstruos,  buf, se me calienta la boca!!
 En fin, por cinco duros pasabas un rato de diversión que podía ir desde unos segundsos a horas de juego.
 Pero de lo que vamos a hablar aquí es de un ordenador mítico que me enamoró en mi más tierna infancia, nada más y nada menos unos 12 años, y me brindó horas de disfrute y aprendizaje que forjó en mí un especial gusto por está tecnología.

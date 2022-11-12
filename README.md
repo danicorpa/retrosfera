@@ -56,10 +56,10 @@ Pues después de todo esto, hoy en día todavía hay gente que no quiere que se 
 Tengo que agradecer a tanta gente que no dejen de brindarnos estos momentos de alegría y diversión.
 
 Bibliografía:
-- Manual del Amstrad cpc6128
-- La colección de Borland C que me compré en el kisko
-- La web de Astalavista.com
-- [Tuber Viejuner](https://www.youtube.com/c/TuberViejuner)
-- [Tentáculo Púrpura](https://www.youtube.com/c/Tentaculopurpura)
-- [Profesor Retroman](https://www.youtube.com/channel/UCSdIAKvPxlB3VlFDCBvI46A)
-- [Pixel2Pixel](https://www.youtube.com/c/pixel2pixel)
+1. Manual del Amstrad cpc6128
+2. La colección de Borland C que me compré en el kisko
+3. La web de Astalavista.com
+4. [Tuber Viejuner](https://www.youtube.com/c/TuberViejuner)
+5. [Tentáculo Púrpura](https://www.youtube.com/c/Tentaculopurpura)
+6. [Profesor Retroman](https://www.youtube.com/channel/UCSdIAKvPxlB3VlFDCBvI46A
+7. [Pixel2Pixel](https://www.youtube.com/c/pixel2pixel)

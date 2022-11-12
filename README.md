@@ -55,7 +55,7 @@ Aqui me veo hoy frente a mi pc, recordando mi tiempo de ordenador vintage que me
 Pues después de todo esto, hoy en día todavía hay gente que no quiere que se olviden estas sensaciones añejas y que lucha, a golpe de teclado, por que el viento no se lleve a nuestro querido AMSTRAD y hacen que su memoria se perpetúe programando juegos y haciendo las delicias de niños como yo, con 40 y pico años.
 
 ## CONCLUSION
-En definitiva, creo que lo **retro** nunca ha muerto del todo, nunca se pasará de moda por que hace que te pongas retos como el de seguir jugando gracias a que lo haces tú, también hay gente que hace que las máquinas no dejen de funcionar por el simple hecho de que le gusta lo que hace, creo que no, lo **retro** finalmente no ha vuelto por que no se ha ido nunca.
+En definitiva, creo que lo **retro** nunca ha muerto del todo, nunca se pasará de moda por que hace que te pongas retos como el de seguir jugando gracias a que lo haces tú, también hay gente que hace que las máquinas no dejen de funcionar por el simple hecho de que le gusta lo que hace, por eso creo que no, lo **retro** finalmente no ha vuelto por que no se ha ido nunca.
 
 Tengo que agradecer a tanta gente que no dejen de brindarnos estos momentos de alegría y diversión.
 

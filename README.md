@@ -22,6 +22,7 @@ Rondaba el año del Señor de 1989, aprox, y mi madre no aguantó mi llantina pi
 Nadie me advirtio que el soporte de datos que usaba era UNA CINTA MAGNÉTICA!!, una maldita cinta magnética, ese momento de carga era entre una pesadilla y un momento de emoción. Hasta que la carga fallaba después de media hora cargando!! Otra vez a cargar!!
 Menos mal que mi madre me compró el que llevaba diskete, :blush: y eso me llevaba a ir al corte inglés a comprarme mis amados disketes para hacer mis copias de seguridad de los juegos que más me gustaban, ahí fue cuando encontré el segundamano, si si, el segundamano, un periódico de venta de objetos de segunda mano, como wallapop pero en los 80!!:innocent:
 
+
 ![](../repositorio_p04/img/crear_repo.png)
 Clónalo para tener una copia del repositorio en local. incorporadas
 ![](../repositorio_p04/img/clonar_repo.png)

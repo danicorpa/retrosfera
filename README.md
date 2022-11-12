@@ -61,5 +61,5 @@ Bibliografía:
 3. La web de Astalavista.com
 4. [Tuber Viejuner](https://www.youtube.com/c/TuberViejuner)
 5. [Tentáculo Púrpura](https://www.youtube.com/c/Tentaculopurpura)
-6. [Profesor Retroman](https://www.youtube.com/channel/UCSdIAKvPxlB3VlFDCBvI46A
+6. [Profesor Retroman](https://www.youtube.com/channel/UCSdIAKvPxlB3VlFDCBvI46A)
 7. [Pixel2Pixel](https://www.youtube.com/c/pixel2pixel)

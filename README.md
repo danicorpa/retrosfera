@@ -1,8 +1,9 @@
 # retrosfera
 
+![](https://github.com/danicorpa/retrosfera/blob/main/img/images.png )
 
 > By Daniel Martin Corpa
-![](https://github.com/danicorpa/retrosfera/blob/main/img/images.png )
+
 [Readme.md](https://github.com/danicorpa/retrosfera)
 # TABLA DE CONTENIDOS
 - [INTRODUCCION](#introduccion)

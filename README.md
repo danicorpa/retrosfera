@@ -19,12 +19,12 @@ Pero de lo que vamos a hablar aquí es de un ordenador mítico que me enamoró e
 
 ## PRIMEROS PASOS
 Rondaba el año del Señor de 1989, aprox, y mi madre no aguantó mi llantina pidiendole que me comprara un ordenador, que iba a hacer unos trbajos para el cole chchis, que iba a aprender muchas con las aplicaciones que llevaba incorporadas, pobre infeliz, y lo iba a petar.
-Entonces un día, mi amada madre vino con uno debajo del brazo, nada menos que un amstrad, ![](https://github.com/danicorpa/retrosfera/tree/main/img/libro.jpg), si, en esa época venía con instrucciones!!:heart_eyes:. 
+Entonces un día, mi amada madre vino con uno debajo del brazo, nada menos que un amstrad, ![](https://github.com/danicorpa/retrosfera/img/libro.jpg), si, en esa época venía con instrucciones!!:heart_eyes:. 
 
 Nadie me advirtio que el soporte de datos que usaba era UNA CINTA MAGNÉTICA!!, una maldita cinta magnética, ese momento de carga era entre una pesadilla y un momento de emoción. Hasta que la carga fallaba después de media hora cargando!! Otra vez a cargar!!
 Menos mal que mi madre me compró el que llevaba diskete, :blush: y eso me llevaba a ir al corte inglés a comprarme mis amados disketes para hacer mis copias de seguridad de los juegos que más me gustaban, ahí fue cuando encontré el segundamano, si si, el segundamano, un periódico de venta de objetos de segunda mano, como wallapop pero en los 80!!:innocent:
 era la caña.
-En fin, me tiras de la lengua y me voy por las ramas, por donde iba, a sí, mi amstrad nuevecito, ese ordenador de 8bits, 128kb de RAM, 48kb de ROM, madre mía la de cosas que se podía hacer con esos recuros, ![](https://github.com/danicorpa/retrosfera/tree/main/img/juego_batman.jpg)
+En fin, me tiras de la lengua y me voy por las ramas, por donde iba, a sí, mi amstrad nuevecito, ese ordenador de 8bits, 128kb de RAM, 48kb de ROM, madre mía la de cosas que se podía hacer con esos recuros, ![](https://github.com/danicorpa/retrosfera/img/juego_batman.jpg)
 
 ![](../repositorio_p04/img/crear_repo.png)
 Clónalo para tener una copia del repositorio en local. incorporadas
